@@ -1,0 +1,9 @@
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\bin\Debug\Emmas.mdf
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\bin\Debug\Emmas_log.ldf
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\bin\Debug\EmmasLibrary.dll.config
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\bin\Debug\EmmasLibrary.dll
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\bin\Debug\EmmasLibrary.pdb
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\obj\Debug\EmmasLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\obj\Debug\EmmasLibrary.dll
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\obj\Debug\EmmasLibrary.pdb
+D:\Documents\School\Semester 3\PROG1210\Final Exam\EmmasLibrary\EmmasLibrary\obj\Debug\EmmasLibrary.csproj.AssemblyReference.cache
